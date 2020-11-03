@@ -13,20 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### What I've built:
+#### What I've built:
 
 - Bootstrap: A Bash framework for quickly building and configuring new macOS installations. 
 - Oxidation: A list of Rust-based command-line tools.
 - Awesome-macOS: A curated list of awesome software for macOS. 
     
-### My favourite languages:
+#### My favourite languages:
 
-- Rust, Swift, Python.
+- PHP, Python, Rust, Swift.
 
-### Technologies I am familiar with:
+#### Technologies I am familiar with:
 	
-- HTML5, CSS3, Ansible, Terraform, Git.
+- Ansible, AWS, Azure, Bash, CSS3, Debian, HTML5, iOS, GCP, Git, macOS, Terraform, VMware.
 	
-### Technologies I plan to learn in the future:
+#### Technologies I plan to learn in the future:
 
 - Lisp, Ruby, WebAssembly.
+
+- 📫 How to reach me: @pmullins on Telegram or @phmullins on Twitter.
