@@ -1,8 +1,8 @@
 
-I'm using [iTerm2](https://github.com/gnachman/iTerm2) as my terminal emulator, [Fish](https://github.com/fish-shell/fish-shell) as 
+I'm using [Archipelago](https://archipelago.dev/) as my terminal emulator, [Fish](https://github.com/fish-shell/fish-shell) as 
 my default shell, [tmux](https://github.com/tmux/tmux) as my multiplexer, [Ox](https://github.com/curlpipe/ox) as my text editor, 
-and [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) as my typeface font, along with 
-[gruvbox-dark](https://github.com/morhetz/gruvbox-contrib) as my general color palette.
+[Hack](https://sourcefoundry.org/hack/) as my typeface font, and [gruvbox-dark](https://github.com/morhetz/gruvbox-contrib) 
+as my general color palette.
 
 I'm also using [lsd](https://github.com/Peltoche/lsd) as my list command, [fzf](https://github.com/junegunn/fzf) paired with 
 [ripgrep](https://github.com/BurntSushi/ripgrep) for finding stuff, [bat](https://github.com/sharkdp/bat) for reading files, and 
