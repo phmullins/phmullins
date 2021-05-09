@@ -9,4 +9,4 @@ I'm also using [lsd](https://github.com/Peltoche/lsd) as my list command, [fzf](
 [ranger](https://github.com/ranger/ranger) as a terminal file explorer. Finally, I'm using [recents](https://recentsapp.com/) to 
 recall recent files and [rectangle](https://github.com/rxhanson/Rectangle) as my windows manager.
 
-- 📫 How to reach me: @pmullins on Telegram, @pmullins on Mastodon, or @phmullins on Twitter.
+- 📫 How to reach me: @pmullins on Telegram, @pmullins on [Mastodon](https://masthead.social), or @phmullins on Twitter.
