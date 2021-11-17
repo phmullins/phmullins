@@ -6,7 +6,7 @@ as my code editors. I also use [Amphetamine](https://apps.apple.com/us/app/amphe
 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) for collecting, organizing, editing, and annotating data, notes, and documents, 
 [Rectangle](https://github.com/rxhanson/Rectangle) for controlling the placement of apps on screen, the [Recents](https://recentsapp.com/) 
 recent file tracker, and either the [Dracula](https://draculatheme.com/), [Nord](https://www.nordtheme.com/), or [Solarized Light](https://ethanschoonover.com/solarized/) 
-color schemes/themes.
+color themes.
 
 📫 How to reach me: @pmullins on [Telegram](https://telegram.org/), @pmullins on [Mastodon](https://masthead.social), or @phmullins on 
 Twitter. If you prefer, I can also be found on [Signal](https://signal.org/download/) and [WhatsApp](https://www.whatsapp.com/).
