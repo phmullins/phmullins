@@ -7,6 +7,6 @@ MacBook Pro, [Arq](https://www.arqbackup.com/) for doing hourly incremental back
 temporary notes, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) for collecting, organizing, editing, and annotating data, 
 notes, and documents, [Rectangle](https://github.com/rxhanson/Rectangle) for controlling the placement of apps on screen, the 
 [Recents](https://recentsapp.com/) recent file tracker, and either the [Dracula](https://draculatheme.com/), 
-[Nord](https://www.nordtheme.com/), or [Solarized Light](https://ethanschoonover.com/solarized/) color themes. 
+[Nord](https://www.nordtheme.com/) color themes. 
 
 📫 Contact Information: Need to ask me something? If so, please ping @pmullins on [Telegram](https://telegram.org/).
