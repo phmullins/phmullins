@@ -3,7 +3,7 @@ Monterey 12.2, [Warp](https://www.warp.dev/) terminal, [Fish](https://github.com
 [Hack](https://sourcefoundry.org/hack/) monospace font, and the [BBEdit](https://www.barebones.com/products/bbedit/) text editor. I 
 also use the [Keeping You Awake](https://github.com/newmarcel/KeepingYouAwake) app to keep my MacBook Pro awake, [1Password](https://1password.com/) for
 managing my login passwords and software keys, [SoundSource](https://rogueamoeba.com/soundsource/) for controlling the audio on my 
-MacBook Pro, [Arq](https://www.arqbackup.com/) for doing hourly incremental backups, [Drafts](https://getdrafts.com/) for creating 
+laptop, [Arq](https://www.arqbackup.com/) for doing hourly incremental backups, [Drafts](https://getdrafts.com/) for creating 
 temporary notes, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) for collecting, organizing, editing, and annotating data, 
 notes, and documents, [Rectangle](https://github.com/rxhanson/Rectangle) for controlling the placement of apps on screen, the 
 [Recents](https://recentsapp.com/) recent file tracker, and either the [Dracula](https://draculatheme.com/), 
