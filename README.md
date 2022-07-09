@@ -1,5 +1,5 @@
-What follows is a small example of my current software stack (v1.0.4). I use a 14-inch MacBook Pro with the Apple M1 Pro SoC, macOS 
-Monterey 12.2, [Warp](https://www.warp.dev/) terminal, [Fish](https://github.com/fish-shell/fish-shell) shell, 
+What follows is a small example of my current software stack (v1.0.4). I use a 14-inch MacBook Pro with Apple's M1 Pro SoC, macOS 
+Monterey 12.4, [Warp](https://www.warp.dev/) terminal, [Fish](https://github.com/fish-shell/fish-shell) shell, 
 [Hack](https://sourcefoundry.org/hack/) monospace font, and the [BBEdit](https://www.barebones.com/products/bbedit/) text editor. I 
 also use the [Keeping You Awake](https://github.com/newmarcel/KeepingYouAwake) app to keep my MacBook Pro awake, [1Password](https://1password.com/) for
 managing my login passwords and software keys, [SoundSource](https://rogueamoeba.com/soundsource/) for controlling the audio on my 
