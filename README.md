@@ -1,5 +1,5 @@
 What follows is a small example of my current software stack (v1.0.4). I use a 14-inch MacBook Pro with Apple's M1 Pro SoC, macOS 
-Monterey 12.4, [Warp](https://www.warp.dev/) terminal, [Fish](https://github.com/fish-shell/fish-shell) shell, 
+Monterey 12.6, [Warp](https://www.warp.dev/) terminal, [Fish](https://github.com/fish-shell/fish-shell) shell, 
 [Hack](https://sourcefoundry.org/hack/) monospace font, and the [BBEdit](https://www.barebones.com/products/bbedit/) text editor. I 
 also use Parallels [Toolbox](https://www.parallels.com/products/toolbox/) for Mac to keep my MacBook Pro awake, keep the SSD clean, 
 and for things like timers, alarms, and dozens of other useful things. Additionally, I use [1Password](https://1password.com/) for 
