@@ -1,13 +1,3 @@
-What follows is a small example of my current software stack (v1.0.6). I use a 14-inch MacBook Pro with Apple's M1 Pro SoC, macOS 
-Monterey 12.6, [Warp](https://www.warp.dev/) terminal, [Fish](https://github.com/fish-shell/fish-shell) shell, 
-[Hack](https://sourcefoundry.org/hack/) monospace font, and the [BBEdit](https://www.barebones.com/products/bbedit/) text editor. I 
-also use Parallels [Toolbox](https://www.parallels.com/products/toolbox/) for macOS to keep my MacBook Pro awake, keep the SSD clean, 
-and for things like timers, alarms, and dozens of other useful things. Additionally, I use [1Password](https://1password.com/) for 
-managing my login passwords and software keys, [SoundSource](https://rogueamoeba.com/soundsource/) for controlling the audio on my 
-laptop, [Arq](https://www.arqbackup.com/) for doing hourly incremental backups, [Drafts](https://getdrafts.com/) for creating 
-temporary notes, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) for collecting, organizing, editing, and annotating 
-data, notes, and documents, [Rectangle](https://github.com/rxhanson/Rectangle) for controlling the placement of apps on screen, 
-the [Recents](https://recentsapp.com/) recent file tracker, and either the [Dracula](https://draculatheme.com/), or 
-[Nord](https://www.nordtheme.com/) color themes, or something custom that I've made.  
+My hardware (v1.0.2) stack consists of a 14-inch Apple MacBook Pro (M1 Pro), iPhone 14 Pro Max, iPad Pro (12.9-inch), and an Apple Watch (Series 7). My primary software (v1.0.6) stack consists of macOS, iOS, iPadOS, WatchOS, [iTerm2](https://iterm2.com/), [Fish](https://github.com/fish-shell/fish-shell), [Hack](https://sourcefoundry.org/hack/), [BBEdit](https://www.barebones.com/products/bbedit/), and [ox](https://github.com/curlpipe/ox). I also use Parallels [Toolbox](https://www.parallels.com/products/toolbox/), [1Password](https://1password.com/), [SoundSource](https://rogueamoeba.com/soundsource/), [Arq](https://www.arqbackup.com/), [Carbon Copy Cloner](https://bombich.com/), [Drafts](https://getdrafts.com/), [DEVONthink](https://www.devontechnologies.com/apps/devonthink), [Rectangle](https://github.com/rxhanson/Rectangle), [Dracula](https://draculatheme.com/), [Nord](https://www.nordtheme.com/), and some custom scripts that I've made.  
 
 📫 Contact Information: Need to ask me something? If so, please ping @pmullins on [Telegram](https://telegram.org/).
