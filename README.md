@@ -1,5 +1,5 @@
 My hardware (v1.0.2) stack consists of a MacBook Pro (14-inch, 2021) with an Apple M1 Pro, iPhone 14 Pro Max, iPad Pro (12.9-inch), 
-and an Apple Watch (Series 7). My software (v1.0.6) stack consists primarily of macOS (Monterey), iOS, iPadOS, WatchOS, [iTerm](https://iterm2.com/), 
+and an Apple Watch (Series 7). My software (v1.0.6) stack consists primarily of macOS (Monterey), iOS 16, iPadOS 16, WatchOS 9, [iTerm](https://iterm2.com/), 
 the [Fish](https://github.com/fish-shell/fish-shell) shell, [BBEdit](https://www.barebones.com/products/bbedit/) (It doesn't suck), and 
 the [ox](https://github.com/curlpipe/ox) text editor. I also use several small utilities found in the extremely useful 
 [Parallels Toolbox](https://www.parallels.com/products/toolbox/), Agile Bit's [1Password](https://1password.com/) for managing my passwords and logins, 
