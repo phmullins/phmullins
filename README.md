@@ -8,7 +8,6 @@ for managing my passwords and logins, the [SoundSource](https://rogueamoeba.com/
 equalizer, and the [Arq](https://www.arqbackup.com/) and [Carbon Copy Cloner](https://bombich.com/) backup apps 
 for local and online backups. Finally, I couldn't make it through the day without the [Drafts](https://getdrafts.com/) 
 notes editor, [Rectangle](https://github.com/rxhanson/Rectangle) for managing windows, 
-[Keeping You Awake](https://github.com/newmarcel/KeepingYouAwake) to keep my system from sleeping, 
 [HoudahSpot](https://www.houdah.com/houdahSpot/) for search, and 
 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) 3 for storing and sorting my 
 [second brain](https://en.wikipedia.org/wiki/Second_brain). Update: I recently started testing a new app launcher
