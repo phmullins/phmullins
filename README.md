@@ -11,7 +11,8 @@ notes editor, [Rectangle](https://github.com/rxhanson/Rectangle) for managing wi
 [HoudahSpot](https://www.houdah.com/houdahSpot/) for search, and 
 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) 3 for storing and sorting my 
 [second brain](https://en.wikipedia.org/wiki/Second_brain). Update: I recently started testing a new app launcher
-called [Raycast](https://www.raycast.com/) and it's awesome.
+called [Raycast](https://www.raycast.com/) and it's awesome. Update: I've decided to move my data to something other 
+that GitHub. I am unsure when this transition will take place. 
 
 📫 Contact Information: Got a question about my software or hardware stacks? If so, please feel free to ping 
 me on [Telegram](https://telegram.org/) (@pmullins).
